@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-3w7ztu.cuansalam.cfd/sitemap.xml
